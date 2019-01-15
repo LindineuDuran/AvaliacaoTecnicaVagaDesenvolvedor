@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Credito.Credit" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABEABAAAAACAAAABAABAAAgBABwBAIAAgAAQ=</HashCode>
+      <FileName>Credito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credito.CredGenerico" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAABAAAAADAAAABAABAAAgAABwBAIAAgAAQ=</HashCode>
+      <FileName>Credito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credito.CredDiret" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Credito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credito.CredConsig" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Credito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credito.CredPessJurid" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Credito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credito.CredPessFis" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Credito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credito.CredImob" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Credito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

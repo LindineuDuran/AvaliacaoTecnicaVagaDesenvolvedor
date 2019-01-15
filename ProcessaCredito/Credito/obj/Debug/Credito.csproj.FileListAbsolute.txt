@@ -1,0 +1,4 @@
+C:\Users\lsdur\Documents\Avaliação - Vaga TO\ProcessaCredito\Credito\bin\Debug\Credito.dll
+C:\Users\lsdur\Documents\Avaliação - Vaga TO\ProcessaCredito\Credito\bin\Debug\Credito.pdb
+C:\Users\lsdur\Documents\Avaliação - Vaga TO\ProcessaCredito\Credito\obj\Debug\Credito.dll
+C:\Users\lsdur\Documents\Avaliação - Vaga TO\ProcessaCredito\Credito\obj\Debug\Credito.pdb
